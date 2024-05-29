@@ -69,6 +69,11 @@ table {
     background-color: #ffff;
     border: 1px solid grey; 
     padding: 1.5em 0;
+    transition-duration: 0.3s;
+}
+
+.button:active{
+    scale: 1.1;
 }
 
 .grey-button {
