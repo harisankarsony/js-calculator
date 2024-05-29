@@ -67,6 +67,7 @@ table {
 
 .button {
     background-color: #ffff;
+    border: 1px solid grey; 
     padding: 1.5em 0;
 }
 
